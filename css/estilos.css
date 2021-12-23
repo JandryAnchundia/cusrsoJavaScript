@@ -1,0 +1,57 @@
+* { 
+    background-color: rgb(255, 255, 255);
+}
+
+div .parrafo2{
+    color: blue;
+}
+
+div .parrafo1{
+    font-size: 30px;
+}
+
+div {
+    border:1px solid coral ;
+}
+
+.parrafo1{
+
+    width: 50%;
+    height: 250px;
+    padding: 10px 40px 30px ;
+   
+    border:1px solid coral ;
+
+    margin: auto;
+    margin: 30px;
+
+    
+    
+    
+}
+
+.parrafo2{
+
+    border:1px solid coral ;
+
+    
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
